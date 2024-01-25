@@ -1,0 +1,15 @@
+allow_hosts = []
+api_key = 'da1e228e-3522-4834-be7d-0b45fb942f7c'
+group = '8f2a4d6e-ad86-43a9-b3a7-80c2060691aa'
+inactive_tunnel_timeout = 0
+organization_id = 1341703
+private_tunnel = false
+proxy_host = ''
+proxy_password = ''
+proxy_port = ''
+proxy_username = ''
+retry = 3
+server = 'https://tunnel-manager.katalon.com'
+team_id = 1341703
+tenant = 'TestOps'
+username = 'fitrii.testt@gmail.com'
